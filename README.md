@@ -1,24 +1,24 @@
-# Zabbix-Monitor zabbix ¼à¿Ø·şÎñ
+# Zabbix-Monitor zabbix ç›‘æ§æœåŠ¡
 
 
-ËµÃ÷£º
+è¯´æ˜ï¼š
 
-1¡¢zabbix_mysql                                 ¼à¿Ømysql(°æ±¾£º5.5.42)µÄ¸÷¸öÊıÖµ
+1ã€zabbix_mysq									ç›‘æ§mysql(ç‰ˆæœ¬ï¼š5.5.42)çš„å„ä¸ªæ•°å€¼
 
-   zabbix_mysql/zbx_export_templates.xml        Ä£°åÎÄ¼ş
+   zabbix_mysql/zbx_export_templates.xml		æ¨¡æ¿æ–‡ä»¶
 
-   zabbix_mysql/conf/zabbix_agentd.conf         Ìí¼Ó¼à¿Ø½Å±¾²ÎÊı
+   zabbix_mysql/conf/zabbix_agentd.con			æ·»åŠ ç›‘æ§è„šæœ¬å‚æ•°
 
-   zabbix_mysql/script/getmysqlinfo.sh          ¼à¿Ø½Å±¾£¬ÀïÃæµÄ²ÎÊı¸ù¾İĞèÒªĞŞ¸Ä
+   zabbix_mysql/script/getmysqlinfo.s			ç›‘æ§è„šæœ¬ï¼Œé‡Œé¢çš„å‚æ•°æ ¹æ®éœ€è¦ä¿®æ”¹
 
 
-2¡¢zabbix_redis                                 ¼à¿Øredis(°æ±¾£º2.8.24) ×Ô¶¯·¢ÏÖ£¬×Ô¶¯´´½¨items
+2ã€zabbix_redi									ç›‘æ§redis(ç‰ˆæœ¬ï¼š2.8.24) è‡ªåŠ¨å‘ç°ï¼Œè‡ªåŠ¨åˆ›å»ºitems
 
-   zabbix_redis/zbx_export_templates.xml        Ä£°åÎÄ¼ş
+   zabbix_redis/zbx_export_templates.xml		æ¨¡æ¿æ–‡ä»¶
 
-   zabbix_redis/conf/zabbix_agentd.conf         Ìí¼Ó¼à¿Ø½Å±¾²ÎÊı
+   zabbix_redis/conf/zabbix_agentd.con			æ·»åŠ ç›‘æ§è„šæœ¬å‚æ•°
     
-   zabbix_redis/script/redisdbports.sh          ×Ô¶¯·¢ÏÖ½Å±¾
+   zabbix_redis/script/redisdbports.s			è‡ªåŠ¨å‘ç°è„šæœ¬
 
-   zabbix_redis/script/redismonitor.sh          ¼à¿Ø½Å±¾£¬ÀïÃæµÄ²ÎÊı¸ù¾İĞèÒªĞŞ¸Ä
+   zabbix_redis/script/redismonitor.s			ç›‘æ§è„šæœ¬ï¼Œé‡Œé¢çš„å‚æ•°æ ¹æ®éœ€è¦ä¿®æ”¹
 

@@ -2,7 +2,7 @@
 
 REDISCLI="/usr/bin/redis-cli"
 HOST=`ifconfig eth0 | awk '/inet addr/ {print $2}' | cut -f2 -d ":"`
-PASSWORD=dlhy123456
+PASSWORD=xxxxxxx
      
 function json_head {
     printf "{"

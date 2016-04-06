@@ -1,4 +1,4 @@
-# Zabbix-Monitor
+# Zabbix-Monitor zabbix 监控服务
 
 说明：
 1、zabbix_mysql     监控mysql(版本：5.5.42)的各个数值

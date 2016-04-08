@@ -7,7 +7,7 @@
 
      zabbix_mysql/zbx_export_templates.xml		模板文件
 
-     zabbix_mysql/conf/zabbix_agentd.con		添加监控脚本参数
+     zabbix_mysql/conf/zabbix_agentd.conf		添加监控脚本参数
 
      zabbix_mysql/script/getmysqlinfo.sh		监控脚本，里面的参数根据需要修改
 
@@ -16,7 +16,7 @@
 
      zabbix_redis/zbx_export_templates.xml		模板文件
 
-     zabbix_redis/conf/zabbix_agentd.con		添加监控脚本参数
+     zabbix_redis/conf/zabbix_agentd.conf		添加监控脚本参数
     
      zabbix_redis/script/redisdbports.sh		自动发现脚本
 
